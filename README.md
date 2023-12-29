@@ -1,5 +1,6 @@
 # IBGE - Cor e Raca
-Dashboad Censo IBGE Cor e Raça
+
+Análise do Censo do IBGE 2022: Cor e Raça
 
 Recentemente, o IBGE divulgou novos dados do Censo de 2022. Prosseguindo com a análise iniciada na Região Metropolitana do Vale do Paraíba e Litoral Norte, agora o foco é no censo de Cor e Raça.
 
